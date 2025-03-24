@@ -1,0 +1,14 @@
+E:\B.tech(Sem-5)\(.NET)\programs\MyLecStringDemo\bin\Debug\net8.0\MyLecStringDemo.exe
+E:\B.tech(Sem-5)\(.NET)\programs\MyLecStringDemo\bin\Debug\net8.0\MyLecStringDemo.deps.json
+E:\B.tech(Sem-5)\(.NET)\programs\MyLecStringDemo\bin\Debug\net8.0\MyLecStringDemo.runtimeconfig.json
+E:\B.tech(Sem-5)\(.NET)\programs\MyLecStringDemo\bin\Debug\net8.0\MyLecStringDemo.dll
+E:\B.tech(Sem-5)\(.NET)\programs\MyLecStringDemo\bin\Debug\net8.0\MyLecStringDemo.pdb
+E:\B.tech(Sem-5)\(.NET)\programs\MyLecStringDemo\obj\Debug\net8.0\MyLecStringDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\B.tech(Sem-5)\(.NET)\programs\MyLecStringDemo\obj\Debug\net8.0\MyLecStringDemo.AssemblyInfoInputs.cache
+E:\B.tech(Sem-5)\(.NET)\programs\MyLecStringDemo\obj\Debug\net8.0\MyLecStringDemo.AssemblyInfo.cs
+E:\B.tech(Sem-5)\(.NET)\programs\MyLecStringDemo\obj\Debug\net8.0\MyLecStringDemo.csproj.CoreCompileInputs.cache
+E:\B.tech(Sem-5)\(.NET)\programs\MyLecStringDemo\obj\Debug\net8.0\MyLecStringDemo.dll
+E:\B.tech(Sem-5)\(.NET)\programs\MyLecStringDemo\obj\Debug\net8.0\refint\MyLecStringDemo.dll
+E:\B.tech(Sem-5)\(.NET)\programs\MyLecStringDemo\obj\Debug\net8.0\MyLecStringDemo.pdb
+E:\B.tech(Sem-5)\(.NET)\programs\MyLecStringDemo\obj\Debug\net8.0\MyLecStringDemo.genruntimeconfig.cache
+E:\B.tech(Sem-5)\(.NET)\programs\MyLecStringDemo\obj\Debug\net8.0\ref\MyLecStringDemo.dll
