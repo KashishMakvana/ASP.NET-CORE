@@ -1,0 +1,14 @@
+E:\B.tech(Sem-5)\(.NET)\programs\Lab_1\bin\Debug\net8.0\Lab_1.exe
+E:\B.tech(Sem-5)\(.NET)\programs\Lab_1\bin\Debug\net8.0\Lab_1.deps.json
+E:\B.tech(Sem-5)\(.NET)\programs\Lab_1\bin\Debug\net8.0\Lab_1.runtimeconfig.json
+E:\B.tech(Sem-5)\(.NET)\programs\Lab_1\bin\Debug\net8.0\Lab_1.dll
+E:\B.tech(Sem-5)\(.NET)\programs\Lab_1\bin\Debug\net8.0\Lab_1.pdb
+E:\B.tech(Sem-5)\(.NET)\programs\Lab_1\obj\Debug\net8.0\Lab_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\B.tech(Sem-5)\(.NET)\programs\Lab_1\obj\Debug\net8.0\Lab_1.AssemblyInfoInputs.cache
+E:\B.tech(Sem-5)\(.NET)\programs\Lab_1\obj\Debug\net8.0\Lab_1.AssemblyInfo.cs
+E:\B.tech(Sem-5)\(.NET)\programs\Lab_1\obj\Debug\net8.0\Lab_1.csproj.CoreCompileInputs.cache
+E:\B.tech(Sem-5)\(.NET)\programs\Lab_1\obj\Debug\net8.0\Lab_1.dll
+E:\B.tech(Sem-5)\(.NET)\programs\Lab_1\obj\Debug\net8.0\refint\Lab_1.dll
+E:\B.tech(Sem-5)\(.NET)\programs\Lab_1\obj\Debug\net8.0\Lab_1.pdb
+E:\B.tech(Sem-5)\(.NET)\programs\Lab_1\obj\Debug\net8.0\Lab_1.genruntimeconfig.cache
+E:\B.tech(Sem-5)\(.NET)\programs\Lab_1\obj\Debug\net8.0\ref\Lab_1.dll
